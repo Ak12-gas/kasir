@@ -1,0 +1,6 @@
+{
+  "name": "ApexSME POS - Kasir Responsif",
+  "description": "Sistem Kasir Point of Sale (POS) modern, cepat, dan responsif untuk cafe dan retail dengan manajemen transaksi, cetak struk, dan ringkasan shift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
